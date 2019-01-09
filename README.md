@@ -4,3 +4,4 @@
 * homepage : https://hunkim.github.io/ml/
 * Github : https://hunkim.github.io/ml/
 
+시즌 1 학습 
